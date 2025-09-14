@@ -19,4 +19,4 @@ Why use AutoExtract?
 If you regularly work with large numbers of archives, this tool streamlines the process, saving you precious minutes every time. It’s perfect for power users, developers, Flight Simmers, or anyone who wants a cleaner, faster workflow.
 
 
-The install for flight sim option can also be used even if the system does not detect an unnecessary folder, it will just skip the step so you do not have to worry about files getting deleted :D
+The "install for flight sim" option can also be used even if the system does not detect an unnecessary folder, it will just skip the step so you do not have to worry about files getting deleted :D
