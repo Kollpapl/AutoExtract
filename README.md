@@ -9,7 +9,7 @@ Extract multiple ZIP or 7Z files simultaneously
 
 - Flatten unnecessary subfolders to keep your directories organized
 
-- Automatically deletes original ZIP files after extraction (optional: can be disabled)
+- Automatically deletes original ZIP files after extraction
 
 - Optional right-click context menu integration for quick access
 
